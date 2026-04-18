@@ -37,5 +37,5 @@ Apply different models and compare results
 Improve visualization
 👨‍💻 Author
 
-Krishna Saini
+Krishna Kumar
 B.Tech (AI & ML) Student
